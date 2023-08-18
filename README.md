@@ -15,11 +15,3 @@
       
 - Na parte do Python foi criado um único arquivo:
   - Client: que cria o socket cliente, recebe os dados do servidor e os imprime em uma interface em Python.
-
-  ## Interfaces da parte em Java
-    A parte em java teve 2 interfaces:<br>
-      - métodos inputString e inputInt exibiam uma mensagem e retornava o valor fornecido pelo usuário.
-          <div align = "center">
-              <img src = "![InterfacedeEntradadeDados](https://github.com/LeticiaKOSilva/CommunicationJavaAndPython/assets/129966396/30f59991-12a7-439d-8dec-a15bba550170)
-" width= "500px">
-      </div>
