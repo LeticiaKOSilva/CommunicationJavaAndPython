@@ -1,5 +1,5 @@
 # CommunicationJavaAndPython
-### ->Criação de 2 sockets, onde o servidor é feito em java e o cliente em python, o objetivo e passar dados entre os dois.
+### ->Criação de 2 sockets, onde o servidor é feito em java e o cliente em python, o objetivo e realizar uma conexão e passagem de dados entre os dois.
 
 - O programa foi feito utilizando as linguagens Python e Java;
 
